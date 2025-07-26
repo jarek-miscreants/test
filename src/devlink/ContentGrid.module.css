@@ -1,0 +1,53 @@
+.g_content_grid.column-custom {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: base;
+}
+
+.g_content_grid.column-custom:where(.w-variant-24213516-d2b0-10b8-4467-6914345e12db) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-7ee31459-1432-f65b-f779-399b3c96b764;
+}
+
+.g_content_grid.column-custom:where(.w-variant-3eec9c8d-1944-bd59-9168-880bffdac103) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-c149ca5c-c22d-acc8-d129-6f9d83a21e66;
+}
+
+.g_content_grid.column-custom:where(.w-variant-b70de027-9167-d648-4978-eb3ff2c89e00) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-73f60506-f9f1-6c55-32ba-c1da4628a603;
+}
+
+.g_content_grid.column-custom:where(.w-variant-fc540237-9646-bc80-acd1-b38f51505218) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-13748b34-5ce0-4516-c4f3-3e5b3cc1f066;
+}
+
+.g_content_grid.column-custom:where(.w-variant-44c2def3-1f2d-69a2-c22a-a8fea36abaf3) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-9b300823-d767-b5cc-8125-0efdf7435eec;
+}
+
+.g_content_grid.column-custom:where(.w-variant-f02a0948-6847-ce1d-4c21-68a870653144) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-12ec420d-7a2d-bef3-dc1f-ef889029c90e;
+}
+
+.g_content_grid.column-custom:where(.w-variant-5e97ccd6-3240-a80f-fed9-77adfde5a150) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-06f48d34-1876-7776-56c1-1645af9611aa;
+}
+
+.g_content_grid.column-custom:where(.w-variant-ea250c6e-3e46-a072-6a57-3d3af44e0a82) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-ed4f7844-76e6-8ca3-7153-9a709a19a533;
+}
+
+.g_content_grid.column-custom:where(.w-variant-f5bb1cc8-65ac-ad77-1ccd-dfc92595b3fe) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-d267c7b5-e937-f227-4fe1-2486797ec6b7;
+}
+
+.g_content_grid.column-custom:where(.w-variant-0ee410a8-6de4-96fe-b537-41ca0b0d9c87) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-5fef7cc3-c0bf-94ad-3c42-302cb776697e;
+}
+
+.g_content_grid.column-custom:where(.w-variant-a0a668a1-0cb9-2231-25be-aeb1a9f89b28) {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-652469f3-3743-d5d3-a85e-70a92a318faf;
+}
+
+.column-custom {
+  ---mode--collection-26f30344-b46f-3dcf-bbf8-296afa857ad6: mode-7ee31459-1432-f65b-f779-399b3c96b764;
+  grid-column-start: auto;
+  grid-column-end: span var(--_column-count---value);
+}

@@ -1,0 +1,10 @@
+.g_section:where(.w-variant-06bfd700-a8fe-1bee-dfa2-248c38c5ee34) {
+  background-color: var(--_theme---background);
+  color: var(--_theme---text);
+  ---mode--collection-c7ecdf68-541a-ca9a-cd57-550b6ff6d740: base;
+}
+
+.g_section:where(.w-variant-dfb2104f-deee-7b68-37bd-88633f0d3adf) {
+  background-color: var(--_theme---background);
+  color: var(--_theme---text);
+}

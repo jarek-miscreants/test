@@ -1,0 +1,44 @@
+.content-rich-text {
+  font-family: var(--_text-style---font-family);
+  font-size: var(--_text-style---font-size);
+  line-height: var(--_text-style---line-height);
+}
+
+.content-rich-text:where(.w-variant-b99f85d7-8761-f28a-7436-b823499f73fa) {
+  font-family: var(--_text-style---font-family);
+  font-size: var(--_text-style---font-size);
+  line-height: var(--_text-style---line-height);
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-85028558-9701-1821-c3f0-1ba035600d9d;
+}
+
+.content-rich-text:where(.w-variant-2961088f-5e99-9340-0ab4-7fdde90a0d73) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-7a5b0252-88d3-17fe-3982-281729a9de2d;
+}
+
+.content-rich-text:where(.w-variant-58479d3c-2434-4f33-b027-b02628919705) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-81ea5efe-f7e8-052e-9feb-a7810d58122d;
+}
+
+.content-rich-text:where(.w-variant-8e4a1542-c15c-a224-5ce7-9db02bc63221) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-8302cf38-0d06-8bf0-5362-cdb3281d212b;
+}
+
+.content-rich-text:where(.w-variant-062f86df-8c94-66bc-11f1-2dec3363176b) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-82c5c99d-50fe-c961-9da7-c3a8a4cb4b75;
+}
+
+.content-rich-text:where(.w-variant-99ef0c6f-d120-4697-e0fe-eeda93f42751) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-5c7eb5f1-07ce-d3c9-aa27-1d4fd55f33ac;
+}
+
+.content-rich-text:where(.w-variant-ad1158d2-fbf0-7764-81fe-6e618e53cb14) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-3482c89c-d602-18c4-b8e7-8de7a0e878dd;
+}
+
+.content-rich-text:where(.w-variant-d1f8a31e-200a-31ea-8413-1a1d9579048a) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-54b75446-9319-6076-4ef8-6ae2c56b6430;
+}
+
+.content-rich-text:where(.w-variant-c12058f6-417c-9a6d-715e-94c0e11b7eb9) {
+  ---mode--collection-6c5ca714-8b9a-b299-8b0d-6377f6c7d444: mode-ada402e9-1e8a-4097-0485-d05056430952;
+}

@@ -1,0 +1,19 @@
+.g-section-space {
+  height: var(--_spacing---section-space--none);
+}
+
+.g-section-space:where(.w-variant-06539f70-5f1c-7b69-3356-58a6324ac143) {
+  height: var(--_spacing---section-space--small);
+}
+
+.g-section-space:where(.w-variant-ef9b3eac-2a11-f8cf-f392-b89b53acb212) {
+  height: var(--_spacing---section-space--main);
+}
+
+.g-section-space:where(.w-variant-da9deacd-6bd2-1cf6-af5c-3a3c0552044d) {
+  height: var(--_spacing---section-space--large);
+}
+
+.g-section-space:where(.w-variant-6cb0206d-e10f-2d4b-08b6-0f8bb75211e1) {
+  height: var(--_spacing---section-space--page-top);
+}
