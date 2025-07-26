@@ -2,6 +2,7 @@
 
 import { Section, Block, Link } from "@/devlink/_Builtin";
 
+
 export default function Home() {
   return (
     <Section
@@ -13,7 +14,7 @@ export default function Home() {
         justifyContent: "center",
       }}
     >
-      <Block tag="div" className="container">
+      <Block tag="div" className="container-large">
         <Block
           tag="div"
           className="hero-split"
@@ -24,7 +25,7 @@ export default function Home() {
           }}
         >
           <h1
-            className="margin-bottom-24px"
+            className="heading-size h1 mb-6"
             style={{
               fontSize: "2.5rem",
               fontWeight: 700,
